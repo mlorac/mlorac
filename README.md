@@ -1,8 +1,8 @@
-## Seja bem-vindx ao meu mundo de ideias.
-#### Eu sou a __Carol__, e aqui eu tenho vários projetos próprios para estudou ou até mesmo ideia de negócios.
+## Seja bem-vindx ao meu mundo.
+#### Eu sou a __Carol__! Aqui tem vários projetos de estudo e até mesmo ideia de negócios.
 
-- 💻 Front-end com foco em Angular
-- 📚 Estudante de UI/UX pela [Mentorama](https://mentorama.com.br/)
+- 💻 Trabalho como front-end com foco em Angular
+- 📚 Estudo UI/UX pela [Mentorama](https://mentorama.com.br/)
 - 🎓 Sou designer de formação e programadora de coração.
 - 🤔 Um fato interessante... eu amo fazer crochê! Já viu meus amigurumis? Dá uma olhada no meu instagram.
 
