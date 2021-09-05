@@ -26,7 +26,7 @@
   <a href="https://www.behance.net/mlorac" target="_blank" id="behance">
    <img src="https://github.com/mlorac/mlorac/blob/main/imgs/behance.png" target="_blank" style="width: 3em;">
   </a>
-  <a href="https://instagram.com/lorac.git" target="_blank" id="instagram">
+  <a href="https://instagram.com/lorac.gif" target="_blank" id="instagram">
    <img src="https://github.com/mlorac/mlorac/blob/main/imgs/instagram.png" target="_blank" style="width: 3em;">
   </a>
   <a href="https://open.spotify.com/playlist/01ZO7XfQpg1Q0h99ABaIh0?si=48a7ac843a804854" target="_blank" id="spotify">
