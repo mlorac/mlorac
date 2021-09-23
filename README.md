@@ -1,4 +1,4 @@
-## Seja bem-vindx ao meu mundo.
+## Seja bem-vindo ao meu mundo.
 #### Eu sou a __Carol__! Aqui tem vários projetos de estudo e até mesmo ideia de negócios.
 
 - 💻 Trabalho como front-end com foco em Angular
